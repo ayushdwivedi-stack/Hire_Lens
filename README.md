@@ -301,9 +301,3 @@ Improved evidence tracing for recommendations.
 Production deployment with hosted inference.
 
 Automated tests for API validation and analysis quality.
-
-Author
-
-Kanishka Sharma
-
-GitHub: https://github.com/sharmakanishka05
